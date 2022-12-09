@@ -58,7 +58,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Acquisition
 
-* [22120](https://github.com/c9fe/22120) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
+* [22120](https://github.com/crisdosyago/Diskernet) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. AKA Diskernet *(In Development)*
 * [ArchiveBox](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
 * [archivenow](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
 * [ArchiveWeb.Page](https://archiveweb.page) - A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC data. Also available as an Electron based desktop application.
